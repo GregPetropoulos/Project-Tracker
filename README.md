@@ -85,7 +85,3 @@ While you build, remember the following guidelines:
 2. When generating a new `<tr>` for a project, add one more `<td>` that holds a button for deleting a project from the list.
 
 3. Use jQuery event delegation to attach an event listener to each of those buttons so that when clicked, the parent `<tr>` element will be removed from the page.
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
