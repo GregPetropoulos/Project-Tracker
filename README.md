@@ -2,6 +2,10 @@
 [Deployed Link](https://gregpetropoulos.github.io/Project-Tracker/)
 # Mini Project: Project Tracker
 
+https://user-images.githubusercontent.com/68525155/155805158-808d8b5d-c774-4741-ac57-b034b16d2b83.mov
+
+
+
 In this project, you will work with others to create a project tracker application using Bootstrap, jQuery, jQueryUI, Moment, and Google Fonts. Break up these phases amongst members of your team.
 
 ## Instructions
